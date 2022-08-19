@@ -100,8 +100,8 @@ h4{
 .about{
     width: 100%;
     padding: 100px 0px;
-    background-color: #191919;
-    /* background-color: #000; */
+    /* background-color: #191919; */
+    background-color: #000;
     }
 .about img{
     height: auto;
