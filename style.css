@@ -98,6 +98,7 @@ h4{
     right: 6px;
 }
 .about{
+    height: 100vh;
     width: 100%;
     padding: 100px 0px;
     background-color: #191919;
@@ -301,5 +302,5 @@ footer p:nth-child(2){
     color: #f9004d;
     bottom: 35px;
     font-size: 14px;
-    
+
 }
